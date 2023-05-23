@@ -1,5 +1,4 @@
 # ReactMySQL-API-Maker
-# ReactMySQL-API-Maker
 
 ### GET /api/v1/longest-duration-movies
 This route returns as JSON the top 10 movies with the longest runTime
